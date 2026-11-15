@@ -1,11 +1,7 @@
-*.py[co]
-docs/build
+.venv/
+__pycache__/
+*.pyc
+evidence/
 dist/
 build/
-MANIFEST
-.coverage
-.cache/
 *.egg-info/
-htmlcov/
-.pytest_cache
-.venv/
